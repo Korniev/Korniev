@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Vision Parking](https://github.com/Korniev/VisionPark)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, R**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Comp. Vision, R**
 
 - 👯 I’m looking to collaborate on **data science projects**
 
