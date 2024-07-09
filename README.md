@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, R**
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m looking to collaborate on **data science and machine learning projects**
 
-- 🤝 I’m looking for help with **data science projects**
+- 🤝 I’m looking for help with **ds, ml or python web projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Korniev](https://github.com/Korniev)
 
