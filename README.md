@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korniev&label=Profile%20views&color=0e75b6&style=flat" alt="korniev" /> </p>
 
-- 🔭 I’m currently working on [Vision Parking](https://github.com/Korniev/VisionPark)
+- 🔭 I’m currently working on [AImage Store](https://github.com/Korniev/AImageStore)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, R**
 
