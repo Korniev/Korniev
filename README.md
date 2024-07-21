@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-5dg42hwir-kornievs-projects.vercel.app/api?username=korniev&show_icons=true&locale=en" alt="korniev" /></p>
 
-![Top Langs](https://github-readme-stats-5dg42hwir-kornievs-projects.vercel.app/api/top-langs?username=korniev&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats-5dg42hwir-kornievs-projects.vercel.app/api/top-langs?username=korniev&show_icons=true&locale=en&layout=compact)
 
 ![GitHub stats](https://github-readme-stats-5dg42hwir-kornievs-projects.vercel.app/api?username=korniev&show_icons=true&locale=en)
 
