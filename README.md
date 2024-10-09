@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, R, AI**
 
-- 👯 I’m looking to collaborate on **django / data science / machine learning projects**
+- 👯 I’m looking to collaborate on **python django / data science / machine learning projects**
 
 - 🤝 I’m looking for help with **ds, ml or python web projects**
 
