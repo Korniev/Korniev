@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AImage Store](https://github.com/Korniev/AImageStore) and [Twitter-Crypto_bot](https://github.com/Korniev/Twitter-Crypto-Bot)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, R, AI**
+- 🌱 I’m currently learning **Machine Learning, AI, pursuing aws certificates**
 
 - 👯 I’m looking to collaborate on **python django / data science / machine learning projects**
 
