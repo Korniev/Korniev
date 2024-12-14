@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Korniev](https://github.com/Korniev)
 
-- 📫 How to reach me **korniev92@gmail.com**
+- 📫 How to reach me **korniev92@gmail.com** or **https://www.linkedin.com/in/korniev/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
