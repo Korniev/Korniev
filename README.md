@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yevhenii Korniev</h1>
-<h3 align="center">A passionate python developer / data scientist / machine learning engineer from Ukraine</h3>
+<h3 align="center">A passionate python developer / data scientist / machine learning engineer from Ukraine currently living in Barcelona!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korniev&label=Profile%20views&color=0e75b6&style=flat" alt="korniev" /> </p>
 
